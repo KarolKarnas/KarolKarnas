@@ -1,8 +1,10 @@
-# Karol Karnas 👋
+# 👋 Karol Karnas
 
 **`Frontend Developer `**
 
-Welcome to my GitHub page! I'm a passionate front-end developer with a focus on React and TypeScript, constantly seeking new challenges to grow and refine my skills. My ultimate ambition is to become a well-rounded full-stack developer. Although my expertise lies in front-end technologies, I also possess valuable knowledge in Node.js, MongoDB, and Express. I love building user-friendly and visually appealing web applications, and I am committed to creating efficient and scalable code. Join me on this exciting journey of continuous learning and innovation in the world of web development! Let's code and build together! 🚀
+<div align="justify">Welcome to my GitHub page! I'm a passionate front-end developer with a focus on React and TypeScript, constantly seeking new challenges to grow and refine my skills. My ultimate ambition is to become a well-rounded full-stack developer. Although my expertise lies in front-end technologies, I also possess valuable knowledge in Node.js, MongoDB, and Express. I love building user-friendly and visually appealing web applications, and I am committed to creating efficient and scalable code. Join me on this exciting journey of continuous learning and innovation in the world of web development! Let's code and build together! 🚀</div>
+
+<a href="mailto:karol.karnas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 ## 🔧 Technologies & Tools
 
@@ -101,15 +103,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
       />
       <br /><strong>Linux</strong>
     </td>
-    <!-- <td align="center" height="144" width="144">
-      <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-        width="64"
-        height="64"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td> -->
            <td align="center" height="144" width="144">
       <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
