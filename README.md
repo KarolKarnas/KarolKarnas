@@ -6,155 +6,144 @@ Welcome to my GitHub page! I'm a passionate front-end developer with a focus on 
 
 ## 🔧 Technologies & Tools
 
+<style>
+  :root {
+    font-size: 16px;
+  }
+
+  td {
+    text-align: center;
+    height: 6rem;
+    width: 6rem;
+    padding: 1rem;
+  }
+
+  img {
+    width: 3rem;
+    height: 3rem;
+  }
+
+  strong {
+    font-size: 1rem;
+  }
+</style>
+
 <table>
   <tr>
-      <td align="center" height="7rem" width="7rem">
+    <td>
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        width="3rem"
-        height="3rem"
         alt="JavaScript"
       />
       <br /><strong>JavaScript</strong>
     </td>
-    <td align="center" height="7rem" width="7rem">
+    <td>
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-        width="3rem"
-        height="3rem"
         alt="TypeScript"
       />
       <br /><strong>TypeScript</strong>
     </td>
-    <td align="center" height="7rem" width="7rem">
+    <td>
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="3rem"
-        height="3rem"
         alt="React"
       />
       <br /><strong>React</strong>
     </td>
-    <td align="center" height="7rem" width="7rem">
+    <td>
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-        width="3rem"
-        height="3rem"
         alt="Tailwind"
       />
       <br /><strong>Tailwind</strong>
     </td>
-    <td align="center" height="7rem" width="7rem">
+    <td>
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-        width="3rem"
-        height="3rem"
         alt="Bootstrap"
       />
       <br /><strong>Bootstrap</strong>
     </td>
-    <td align="center" height="7rem" width="7rem">
+    <td>
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-        width="3rem"
-        height="3rem"
         alt="Material UI"
       />
       <br /><strong>Material UI</strong>
     </td>
-        <td align="center" height="7rem" width="7rem">
+    <td>
       <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-        width="3rem"
-        height="3rem"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
         alt="JEST"
       />
       <br /><strong>JEST</strong>
     </td>
-    <td align="center" height="7rem" width="7rem">
+    <td>
       <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"
-        width="3rem"
-        height="3rem"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"
         alt="Wordpress"
       />
       <br /><strong>Wordpress</strong>
     </td>
   </tr>
   <tr>
-    <td align="center" height="7rem" width="7rem">
+    <td>
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        width="3rem"
-        height="3rem"
         alt="Node.js"
       />
       <br /><strong>Node.js</strong>
     </td>
-    <td align="center" height="7rem" width="7rem">
+    <td>
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="3rem"
-        height="3rem"
         alt="Express"
       />
       <br /><strong>Express</strong>
     </td>
-    <td align="center" height="7rem" width="7rem">
+    <td>
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        width="3rem"
-        height="3rem"
         alt="MongoDB"
       />
       <br /><strong>MongoDB</strong>
     </td>
-    <td align="center" height="7rem" width="7rem">
+    <td>
       <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-        width="3rem"
-        height="3rem"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
         alt="Linux"
       />
       <br /><strong>Linux</strong>
     </td>
-    <td align="center" height="7rem" width="7rem">
+    <td>
       <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-        width="3rem"
-        height="3rem"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
         alt="Linux"
       />
       <br /><strong>Linux</strong>
     </td>
-    <td align="center" height="7rem" width="7rem">
+    <td>
       <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-        width="3rem"
-        height="3rem"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
         alt="Linux"
       />
       <br /><strong>Linux</strong>
     </td>
-    <td align="center" height="7rem" width="7rem">
+    <td>
       <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-        width="3rem"
-        height="3rem"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
         alt="Linux"
       />
       <br /><strong>Linux</strong>
     </td>
-    <td align="center" height="7rem" width="7rem">
+    <td>
       <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-        width="3rem"
-        height="3rem"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
         alt="Linux"
       />
       <br /><strong>Linux</strong>
     </td>
-
   </tr>
 </table>
 
