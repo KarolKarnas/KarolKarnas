@@ -2,7 +2,7 @@
 
 **`Fullstack Developer `**
 
-#### ✔️ My latest project
+*✔️ My latest project*
 [**Live Demo - ilustrografia.com - fulllstack eCommerce**](http://ilustrografia.com/) 👈
 
 <div align="justify">Welcome to my GitHub page! I'm a passionate fullstack developer with a strong foundation in frontend technologies, specializing in React and TypeScript. I'm on a relentless quest to broaden my skills and knowledge, aiming to be a well-rounded developer capable of handling both frontend and backend aspects of web applications. 
