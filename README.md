@@ -12,7 +12,7 @@
   <tr>
       <td align="center" height="144" width="144">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
         width="64"
         height="64"
         alt="JavaScript"
@@ -21,7 +21,7 @@
     </td>
     <td align="center" height="144" width="144">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
         width="64"
         height="64"
         alt="TypeScript"
@@ -36,6 +36,15 @@
         alt="React"
       />
       <br /><strong>React</strong>
+    </td>
+    <td align="center" height="144" width="144">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        width="64"
+        height="64"
+        alt="Next.js"
+      />
+      <br /><strong>Next.js</strong>
     </td>
     <td align="center" height="144" width="144">
       <img
@@ -57,12 +66,12 @@
     </td>
     <td align="center" height="144" width="144">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
         width="64"
         height="64"
-        alt="Material UI"
+        alt="SASS"
       />
-      <br /><strong>Material UI</strong>
+      <br /><strong>SASS</strong>
     </td>
 
   </tr>
@@ -96,6 +105,15 @@
     </td>
     <td align="center" height="144" width="144">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        width="64"
+        height="64"
+        alt="MongoDB"
+      />
+      <br /><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" height="144" width="144">
+      <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
         width="64"
         height="64"
@@ -114,12 +132,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
     </td>
     <td align="center" height="144" width="144">
       <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"
+      src="/cypress.svg"
         width="64"
         height="64"
-        alt="Wordpress"
+        alt="Cypress"
       />
-      <br /><strong>Wordpress</strong>
+      <br /><strong>Cypress</strong>
     </td>
   </tr>
 </table>
