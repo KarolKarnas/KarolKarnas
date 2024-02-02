@@ -1,8 +1,14 @@
 # 👋 Karol Karnas
 
-**`Frontend Developer `**
+**`Fullstack Developer `**
 
-<div align="justify">Welcome to my GitHub page! I'm a passionate frontend developer with a focus on React and TypeScript, constantly seeking new challenges to grow and refine my skills. My ultimate ambition is to become a well-rounded full-stack developer. Although my expertise lies in frontend technologies, I also possess valuable knowledge in Node.js, MongoDB, and Express. I love building user-friendly and visually appealing web applications, and I am committed to creating efficient and scalable code. Join me on this exciting journey of continuous learning and innovation in the world of web development! Let's code and build together! 🚀</div>
+*✔️ My latest project*
+[**Live Demo - ilustrografia.com - fulllstack eCommerce**](http://ilustrografia.com/) 👈
+
+<div align="justify">Welcome to my GitHub page! I'm a passionate fullstack developer with a strong foundation in frontend technologies, specializing in React and TypeScript. I'm on a relentless quest to broaden my skills and knowledge, aiming to be a well-rounded developer capable of handling both frontend and backend aspects of web applications. 
+In addition to my expertise in React and TypeScript, I have valuable experience with backend technologies such as Node.js, MongoDB, and Express. My primary focus is on creating user-friendly and visually appealing web applications, and I'm dedicated to producing efficient and scalable code.
+
+Join me on this thrilling journey of continuous learning and innovation in the ever-evolving world of web development. Let's code and build together! 🚀</div>
 
 <br /><a href="mailto:karol.karnas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
