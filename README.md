@@ -58,7 +58,7 @@
     </td>
     <td align="center" height="144" width="144">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
         width="64"
         height="64"
         alt="Tailwind"
@@ -67,7 +67,7 @@
     </td>
     <td align="center" height="144" width="144">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
         width="64"
         height="64"
         alt="Bootstrap"
@@ -142,7 +142,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
     </td>
     <td align="center" height="144" width="144">
        <img
-      src="/cypress.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg"
         width="64"
         height="64"
         alt="Cypress"
