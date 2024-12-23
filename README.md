@@ -22,7 +22,7 @@ _✔️ Online portfolio_
   <tr>
       <td align="center" height="144" width="144">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
         width="64"
         height="64"
         alt="JavaScript"
@@ -31,7 +31,7 @@ _✔️ Online portfolio_
     </td>
     <td align="center" height="144" width="144">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
         width="64"
         height="64"
         alt="TypeScript"
