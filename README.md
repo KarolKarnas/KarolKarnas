@@ -1,18 +1,23 @@
 # 👋 Karol Karnas
 
-**`Fullstack Developer `**
+**`Full-stack Developer `**
 
-_✔️ My latest project_
-[**Live Demo - ilustrografia.com - fulllstack eCommerce**](https://www.ilustrografia.com/) 👈
 
-<div align="justify"><p>Welcome to my GitHub page! I'm a passionate Full Stack developer with a strong foundation in frontend technologies, specializing in React and TypeScript. I'm on a relentless quest to broaden my skills and knowledge, aiming to be a well-rounded developer capable of handling both frontend and backend aspects of web applications.</p>
 
-<p>My primary focus is on creating user-friendly and visually appealing web applications, and I'm dedicated to producing efficient and scalable code.</p>
+<div align="justify"><p>Welcome to my GitHub page! I'm a passionate Full-stack developer with a strong foundation in frontend technologies, specializing in React and TypeScript. I'm on a relentless quest to broaden my skills and knowledge, aiming to be a well-rounded developer capable of handling both front-end and back-end aspects of web applications.</p>
 
-<p>Join me on this thrilling journey of continuous learning and innovation in the ever-evolving world of web development. Let's code and build together! 🚀</p></div>
+<p>I love seeing a well-structured database seamlessly mirrored in a beautiful and functional UI.</p>
+
+<p>Currently, I spend most of my time working with Python and Django on the back-end, and React, Redux, and SCSS on the front-end. 🚀</p></div>
 
 _✔️ Online portfolio_
 [**karnas.dev - full stack portfolio + blog**](https://www.karnas.dev/) 👈
+
+_✔️ Social Media project_
+[**cardpiper.com - full-stack social media**](https://www.cardpiper.com/) 👈
+
+_✔️ eCommerce project_
+[**ilustrografia.com - full-stack eCommerce**](https://www.ilustrografia.com/) 👈
 
 <a href="mailto:karol.karnas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
