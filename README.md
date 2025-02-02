@@ -156,19 +156,19 @@ _✔️ Online portfolio_
     </td>
     <td align="center" height="144" width="144">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
         width="64"
         height="64"
-        alt="MongoDB"
+        alt="Prisma"
       />
-      <br /><strong style="display:inline-block; width:84px; text-align:center;">MongoDB</strong>
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">Prisma</strong>
     </td>
     <td align="center" height="144" width="144">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
         width="64"
         height="64"
-        alt="MongoDB"
+        alt="Postgres"
       />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Postgres</strong>
     </td>
