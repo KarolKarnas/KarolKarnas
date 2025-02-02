@@ -6,11 +6,11 @@
 
 <p><strong>I love seeing a well-structured database seamlessly mirrored in a beautiful and functional UI.</strong></p>
 
-<p>Currently, I spend most of my time working with <strong>Python</strong> and <strong>Django</strong> on the back-end, and <strong>React</strong>, <strong>Redux</strong>, and <strong>SCSS</strong> on the front-end. 🚀</p></div>
+<p>Currently, I spend most of my time working with <strong>Python</strong> and <strong>Django</strong> on the back-end, and <strong>React</strong> and <strong>Redux</strong> on the front-end. 🚀</p></div>
 <br/>
 
 _✔️ Online portfolio_
-[**karnas.dev - full stack portfolio + blog**](https://www.karnas.dev/) 👈
+[**karnas.dev - full-stack portfolio + blog**](https://www.karnas.dev/) 👈
 
 _✔️ Social Media project_
 [**cardpiper.com - full-stack social media**](https://www.cardpiper.com/) 👈
