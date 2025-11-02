@@ -10,11 +10,14 @@
 
 <p><strong>I love seeing a well-structured database seamlessly mirrored in a beautiful and functional UI.</strong> 🚀</p>
 
+_✔️ Knowledge platform_
+[**brain.com - full-stack knowledge platform**](https://www.brain.karnas.dev/) 👈
+
 _✔️ Online portfolio_
 [**karnas.dev - full-stack portfolio + blog**](https://www.karnas.dev/) 👈
 
 _✔️ Social Media project_
-[**cardpiper.com - full-stack social media**](https://www.cardpiper.com/) 👈
+[**cardpiper.com - full-stack social media**](https://www.cardpiper.karnas.dev/) 👈
 
 _✔️ eCommerce project_
 [**ilustrografia.com - full-stack eCommerce**](https://www.ilustrografia.com/) 👈
