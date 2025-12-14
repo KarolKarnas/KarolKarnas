@@ -11,7 +11,7 @@
 <p><strong>I love seeing a well-structured database seamlessly mirrored in a beautiful and functional UI.</strong> 🚀</p>
 
 _✔️ Knowledge platform_
-[**brain - full-stack knowledge platform**](https://brain.karolkarnas.com//) 👈
+[**brain - full-stack knowledge platform**](https://brain.karolkarnas.com/) 👈
 
 _✔️ Online portfolio_
 [**karnas.dev - full-stack portfolio + blog**](https://www.karnas.dev/) 👈
