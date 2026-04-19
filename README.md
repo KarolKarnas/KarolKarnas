@@ -123,19 +123,19 @@ _I love the moment when a well-built backend quietly powers AI that actually wor
 <table>
   <tr>
     <td align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="48" height="48" alt="TypeScript" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="typescript.svg" width="48" height="48" alt="TypeScript" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
       <br /><sub>TypeScript</sub>
     </td>
     <td align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="react.svg" width="48" height="48" alt="React" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
       <br /><sub>React</sub>
     </td>
     <td align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="nextjs.svg" width="48" height="48" alt="Next.js" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
       <br /><sub>Next.js</sub>
     </td>
     <td align="center" height="96" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="redux.svg" width="48" height="48" alt="Redux" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
       <br /><sub>Redux</sub>
     </td>
   </tr>
