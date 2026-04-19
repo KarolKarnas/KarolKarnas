@@ -39,15 +39,15 @@ _I love the moment when a well-built backend quietly powers AI that actually wor
 <table>
   <tr>
     <td align="center" height="144" width="144">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64" height="64" alt="Python" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="python.svg" width="64" height="64" alt="Python" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Python</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="64" height="64" alt="Django" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="django.svg" width="64" height="64" alt="Django" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Django</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="64" height="64" alt="FastAPI" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="fastapi.svg" width="64" height="64" alt="FastAPI" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">FastAPI</strong>
     </td>
     <td align="center" height="144" width="144">
@@ -55,15 +55,15 @@ _I love the moment when a well-built backend quietly powers AI that actually wor
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Celery</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="64" height="64" alt="Pandas" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="pandas.svg" width="64" height="64" alt="Pandas" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Pandas</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="64" height="64" alt="pytest" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="pytest.svg" width="64" height="64" alt="pytest" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">pytest</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="64" height="64" alt="Jupyter" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="jupyter.svg" width="64" height="64" alt="Jupyter" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Jupyter</strong>
     </td>
   </tr>
