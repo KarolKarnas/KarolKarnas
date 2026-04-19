@@ -1,207 +1,142 @@
 # 👋 Karol Karnas
 
-**`Full-stack Developer `**
+**`Python Backend Engineer · AI Pipelines · Agentic Systems`**
 
-<div align="justify"><p>Welcome to my GitHub page! I specialize in full-stack development and thrive in its fast-paced environment. </p>
+_I love the moment when a well-built backend quietly powers AI that actually works._
 
-<p>Currently, I spend most of my time working with <strong>Python</strong> and <strong>Django</strong> on the back-end, and <strong>React</strong> and <strong>Redux</strong> on the front-end.</p></div>
+<div align="justify">
+<p>I build backend systems in Python - with a growing focus on AI-powered data pipelines, embedding-based search, and agentic workflows. I work with Django (including multi-tenant), FastAPI, Celery, PostgreSQL/pgvector, Redis, and Docker - on AWS and Azure in production.</p>
 
-<p> I enjoy improving communication within this workflow and taking responsibility for designing API structures and database schemas.</p>
+<p><strong>Current professional projects:</strong></p>
+<ul>
+  <li><strong><a href="https://databidmachine.com/">Data Bid Machine</a></strong> — backend + AI recommendation pipelines for Google Ads data aggregation · Django · Celery · OpenAI · sentence-transformers · Pandas · AWS</li>
+  <li>Multi-tenant document management & classification system for a US public housing authority · Django · Celery · Agentic pipelines · OCR · Azure</li>
+</ul>
+<p>Always sharpening programming fundamentals and integrating AI tools into my daily workflow to automate the repetitive parts and focus on the hard problems.</p>
 
-<p><strong>I love seeing a well-structured database seamlessly mirrored in a beautiful and functional UI.</strong> 🚀</p>
+<p>I'm comfortable on the frontend (React/Redux/TS) and bring it in when needed - but backend is where I think and work best.</p>
+</div>
 
-_✔️ Knowledge platform_
-[**brain - full-stack knowledge platform**](https://brain.karolkarnas.com/) 👈
+---
 
-_✔️ Online portfolio_
-[**karnas.dev - full-stack portfolio + blog**](https://www.karnas.dev/) 👈
-
-_✔️ Social Media project_
-[**cardpiper.com - full-stack social media**](https://www.cardpiper.karnas.dev/) 👈
-
-_✔️ eCommerce project_
-[**ilustrografia.com - full-stack eCommerce**](https://www.ilustrografia.com/) 👈
+<p><strong>Side projects:</strong></p>
+<ul>
+  <li><strong><a href="https://brain.karolkarnas.com/">The Brain</a></strong> — knowledge platform with semantic search · Django · pgvector · sentence-transformers · Celery · Redis · Tailwind</li>
+  <li><strong><a href="https://www.karnas.dev/">karnas.dev</a></strong> — portfolio + blog · Next.js · React · TypeScript · SCSS</li>
+  <li><strong><a href="https://www.ilustrografia.com/">ilustrografia.com</a></strong> — eCommerce full-stack · Node.js · Express · MongoDB · TypeScript · React · Redux · Tailwind</li>
+</ul>
 
 <a href="mailto:karol.karnas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/karolkarnas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.karnas.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" height=25></a>
+
+---
 
 ## 🔧 Technologies & Tools
 
+**Backend & Infrastructure**
+
 <table>
   <tr>
-      <td align="center" height="144" width="144">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        width="64"
-        height="64"
-        alt="JavaScript"
-      />
-      <br /><strong style="display:inline-block; width:84px; text-align:center;">JavaScript</strong>
-    </td>
     <td align="center" height="144" width="144">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-        width="64"
-        height="64"
-        alt="TypeScript"
-      />
-      <br /><strong style="display:inline-block; width:84px; text-align:center;">TypeScript</strong>
-    </td>
-    <td align="center" height="144" width="144">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="64"
-        height="64"
-        alt="React"
-      />
-      <br /><strong style="display:inline-block; width:84px; text-align:center;">React</strong>
-    </td>
-    <td align="center" height="144" width="144">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
-        width="64"
-        height="64"
-        alt="Redux"
-      />
-      <br /><strong style="display:inline-block; width:84px; text-align:center;">Redux</strong>
-    </td>
-    <td align="center" height="144" width="144">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="64"
-        height="64"
-        alt="Next.js"
-      />
-      <br /><strong style="display:inline-block; width:84px; text-align:center;">Next.js</strong>
-    </td>
-        <td align="center" height="144" width="144">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-        width="64"
-        height="64"
-        alt="SASS"
-      />
-      <br /><strong style="display:inline-block; width:84px; text-align:center;">SASS</strong>
-    </td>
-    <td align="center" height="144" width="144">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
-        width="64"
-        height="64"
-        alt="Tailwind"
-      />
-      <br /><strong style="display:inline-block; width:84px; text-align:center;">Tailwind</strong>
-    </td>
-              <td align="center" height="144" width="144">
-      <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-        width="64"
-        height="64"
-        alt="JEST"
-      />
-      <br /><strong style="display:inline-block; width:84px; text-align:center;">JEST</strong>
-    </td>
-    <td align="center" height="144" width="144">
-       <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg"
-        width="64"
-        height="64"
-        alt="Cypress"
-      />
-      <br /><strong style="display:inline-block; width:84px; text-align:center;">Cypress</strong>
-    </td>
-
-  </tr>
-  <tr>
-  <td align="center" height="144" width="144">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-        width="64"
-        height="64"
-        alt="Python"
-      />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64" height="64" alt="Python" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Python</strong>
     </td>
-      <td align="center" height="144" width="144">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"          
-        width="64"
-        height="64"
-        alt="Django"
-      />
+    <td align="center" height="144" width="144">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="64" height="64" alt="Django" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Django</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"              
-        width="64"
-        height="64"
-        alt="Pandas"
-      />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="64" height="64" alt="FastAPI" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">FastAPI</strong>
+    </td>
+    <td align="center" height="144" width="144">
+      <img src="celery.svg" width="64" height="64" alt="Celery" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">Celery</strong>
+    </td>
+    <td align="center" height="144" width="144">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="64" height="64" alt="Pandas" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Pandas</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        width="64"
-        height="64"
-        alt="Node.js"
-      />
-      <br /><strong style="display:inline-block; width:84px; text-align:center;">Node.js</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="64" height="64" alt="pytest" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">pytest</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
-        width="64"
-        height="64"
-        alt="NestJS"
-      />
-      <br /><strong style="display:inline-block; width:84px; text-align:center;">NestJS</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="64" height="64" alt="Jupyter" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">Jupyter</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="144" width="144">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="64" height="64" alt="AWS" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">AWS</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img
-        src="./sql.svg"
-        width="64"
-        height="64"
-        alt="SQL"
-      />
-      <br /><strong style="display:inline-block; width:84px; text-align:center;">SQL</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="64" height="64" alt="Azure" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">Azure</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        width="64"
-        height="64"
-        alt="Postgres"
-      />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64" height="64" alt="Docker" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">Docker</strong>
+    </td>
+    <td align="center" height="144" width="144">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" alt="Postgres" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Postgres</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
-        width="64"
-        height="64"
-        alt="Prisma"
-      />
-      <br /><strong style="display:inline-block; width:84px; text-align:center;">Prisma</strong>
+      <img src="sql.svg" width="64" height="64" alt="SQL" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">SQL</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-        width="64"
-        height="64"
-        alt="Linux"
-      />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="64" height="64" alt="Redis" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">Redis</strong>
+    </td>
+    <td align="center" height="144" width="144">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="64" height="64" alt="Linux" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Linux</strong>
+    </td>
   </tr>
 </table>
 
-<!--
-**KarolKarnas/KarolKarnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><sub><strong>AI / LLM</strong></sub></p>
+<p>
+  <img src="https://img.shields.io/badge/pgvector-7C3AED?style=for-the-badge" height=25>
+  <img src="https://img.shields.io/badge/sentence--transformers-7C3AED?style=for-the-badge" height=25>
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" height=25>
+  <img src="https://img.shields.io/badge/LLM%20API%20Integration-7C3AED?style=for-the-badge" height=25>
+  <img src="https://img.shields.io/badge/Agentic%20Pipelines-7C3AED?style=for-the-badge" height=25>
+  <img src="https://img.shields.io/badge/Vision--Language%20Models-7C3AED?style=for-the-badge" height=25>
+</p>
 
-Here are some ideas to get you started:
+<p><sub><strong>Observability</strong></sub></p>
+<p>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" height=25>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" height=25>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height=25>
+  <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge" height=25>
+  <img src="https://img.shields.io/badge/Flower-37814A?style=for-the-badge" height=25>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**
+
+<table>
+  <tr>
+    <td align="center" height="96" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="48" height="48" alt="TypeScript" />
+      <br /><sub>TypeScript</sub>
+    </td>
+    <td align="center" height="96" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br /><sub>React</sub>
+    </td>
+    <td align="center" height="96" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+      <br /><sub>Next.js</sub>
+    </td>
+    <td align="center" height="96" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
+      <br /><sub>Redux</sub>
+    </td>
+  </tr>
+</table>
