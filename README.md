@@ -9,8 +9,8 @@ _I love the moment when a well-built backend quietly powers AI that actually wor
 
 <p><strong>Current professional projects:</strong></p>
 <ul>
-  <li><strong><a href="https://databidmachine.com/">Data Bid Machine</a></strong> — backend + AI recommendation pipelines for Google Ads data aggregation · Django · Celery · OpenAI · sentence-transformers · Pandas · AWS</li>
-  <li>Multi-tenant document management & classification system for a US public housing authority · Django · Celery · Agentic pipelines · OCR · Azure</li>
+  <li><strong><a href="https://databidmachine.com/">Data Bid Machine</a></strong> - AI-advised Google Ads platform: continuously monitors accounts, detects anomalies, and surfaces LLM-generated bid and keyword recommendations · Django · Celery · OpenAI · sentence-transformers · Pandas · AWS</li>
+  <li><strong>DMS</strong> - Multi-tenant document management & classification system for a US public housing authority · Django · Celery · Agentic pipelines · OCR · Azure</li>
 </ul>
 <p>Always sharpening programming fundamentals and integrating AI tools into my daily workflow to automate the repetitive parts and focus on the hard problems.</p>
 
@@ -39,61 +39,61 @@ _I love the moment when a well-built backend quietly powers AI that actually wor
 <table>
   <tr>
     <td align="center" height="144" width="144">
-      <img src="python.svg" width="64" height="64" alt="Python" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="python.svg" width="64" height="64" alt="Python" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Python</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img src="django.svg" width="64" height="64" alt="Django" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="django.svg" width="64" height="64" alt="Django" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Django</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img src="fastapi.svg" width="64" height="64" alt="FastAPI" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="fastapi.svg" width="64" height="64" alt="FastAPI" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">FastAPI</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img src="celery.svg" width="64" height="64" alt="Celery" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="celery.svg" width="64" height="64" alt="Celery" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Celery</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img src="pandas.svg" width="64" height="64" alt="Pandas" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="pandas.svg" width="64" height="64" alt="Pandas" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Pandas</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img src="pytest.svg" width="64" height="64" alt="pytest" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="pytest.svg" width="64" height="64" alt="pytest" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">pytest</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img src="jupyter.svg" width="64" height="64" alt="Jupyter" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="jupyter.svg" width="64" height="64" alt="Jupyter" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Jupyter</strong>
     </td>
   </tr>
   <tr>
     <td align="center" height="144" width="144">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="64" height="64" alt="AWS" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="64" height="64" alt="AWS" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">AWS</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="64" height="64" alt="Azure" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="64" height="64" alt="Azure" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Azure</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64" height="64" alt="Docker" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64" height="64" alt="Docker" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Docker</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" alt="Postgres" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" alt="Postgres" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Postgres</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img src="sql.svg" width="64" height="64" alt="SQL" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="sql.svg" width="64" height="64" alt="SQL" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">SQL</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="64" height="64" alt="Redis" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="64" height="64" alt="Redis" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Redis</strong>
     </td>
     <td align="center" height="144" width="144">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="64" height="64" alt="Linux" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="64" height="64" alt="Linux" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Linux</strong>
     </td>
   </tr>
@@ -123,19 +123,19 @@ _I love the moment when a well-built backend quietly powers AI that actually wor
 <table>
   <tr>
     <td align="center" height="96" width="96">
-      <img src="typescript.svg" width="48" height="48" alt="TypeScript" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="typescript.svg" width="48" height="48" alt="TypeScript" />
       <br /><sub>TypeScript</sub>
     </td>
     <td align="center" height="96" width="96">
-      <img src="react.svg" width="48" height="48" alt="React" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="react.svg" width="48" height="48" alt="React" />
       <br /><sub>React</sub>
     </td>
     <td align="center" height="96" width="96">
-      <img src="nextjs.svg" width="48" height="48" alt="Next.js" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="nextjs.svg" width="48" height="48" alt="Next.js" />
       <br /><sub>Next.js</sub>
     </td>
     <td align="center" height="96" width="96">
-      <img src="redux.svg" width="48" height="48" alt="Redux" style="display:block;margin:0 auto;background:none !important;background-color:transparent !important;padding:0 !important;border:none !important;box-shadow:none !important" />
+      <img src="redux.svg" width="48" height="48" alt="Redux" />
       <br /><sub>Redux</sub>
     </td>
   </tr>
