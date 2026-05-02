@@ -1,6 +1,6 @@
 # 👋 Karol Karnas
 
-**`Backend Engineer · AI Pipelines · Agentic Systems`**
+**`Backend Engineer · Data Analysis · Agentic AI`**
 
 _I love the moment when a well-built backend quietly powers AI that actually works._
 
@@ -125,6 +125,10 @@ _I love the moment when a well-built backend quietly powers AI that actually wor
     <td align="center" height="96" width="96">
       <img src="typescript.svg" width="48" height="48" alt="TypeScript" />
       <br /><sub>TypeScript</sub>
+    </td>
+    <td align="center" height="96" width="96">
+      <img src="javascript.svg" width="48" height="48" alt="JavaScript" />
+      <br /><sub>JavaScript</sub>
     </td>
     <td align="center" height="96" width="96">
       <img src="react.svg" width="48" height="48" alt="React" />
