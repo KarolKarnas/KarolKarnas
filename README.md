@@ -1,20 +1,22 @@
 # 👋 Karol Karnas
 
-**`Backend Engineer · Data Analysis · Agentic AI`**
+**`Full-stack Engineer`**
 
-_I love the moment when a well-built backend quietly powers AI that actually works._
+_From client requirements to production._
+
+**Backend systems · Modern interfaces · AI integrations**
 
 <div align="justify">
-<p>I build backend systems in Python - with a growing focus on AI-powered data pipelines, embedding-based search, and agentic workflows. I work with Django (including multi-tenant), FastAPI, Celery, PostgreSQL/pgvector, Redis, and Docker - on AWS and Azure in production.</p>
+<p>I work with clients to turn requirements into working software: React and Next.js interfaces, Python and Django backends, AI integrations, testing, and deployment. I bring a strong backend foundation and stay involved from the client conversation through implementation and release.</p>
 
 <p><strong>Current professional projects:</strong></p>
 <ul>
-  <li><strong><a href="https://databidmachine.com/">Data Bid Machine</a></strong> - AI-advised Google Ads platform: continuously monitors accounts, detects anomalies, and surfaces LLM-generated bid and keyword recommendations · Django · Celery · OpenAI · sentence-transformers · Pandas · AWS</li>
-  <li><strong>DMS</strong> - Multi-tenant document management & classification system for a US public housing authority · Django · Celery · Agentic pipelines · OCR · Azure</li>
+  <li><strong><a href="https://www.karnas.dev/professional-projects/dms-housing-authority">Housing Platform for HOME</a></strong> - Full-stack engineer at Kruko on a team building a housing operations platform for HOME in El Paso, Texas. My contribution spans resident portals, recertification workflows, Django APIs, caseworker tools, integrations, testing, and delivery. Document management (DMS) and AI-assisted processing are part of the wider platform · React · Next.js · Django · Celery · Azure</li>
+  <li><strong><a href="https://databidmachine.com/">Data Bid Machine</a></strong> - Backend and AI integration work for a Google Ads platform: campaign reporting, budget monitoring, keyword analysis, and validated LLM recommendations for paid-search teams · Django · Celery · OpenAI · sentence-transformers · Pandas · AWS</li>
 </ul>
-<p>Always sharpening programming fundamentals and integrating AI tools into my daily workflow to automate the repetitive parts and focus on the hard problems.</p>
+<p>I connect interfaces to the data and business rules behind them, then verify the finished feature through tests and real user flows.</p>
 
-<p>I'm comfortable on the frontend (React/Redux/TS) and bring it in when needed - but backend is where I think and work best.</p>
+<p>I use coding assistants for implementation, exploration, and review. I define the scope, make the technical decisions, review changes, and verify behavior. Responsibility for the delivered software stays with me.</p>
 </div>
 
 ---
@@ -33,6 +35,33 @@ _I love the moment when a well-built backend quietly powers AI that actually wor
 ---
 
 ## 🔧 Technologies & Tools
+
+**Frontend & Interfaces**
+
+<table>
+  <tr>
+    <td align="center" height="144" width="144">
+      <img src="typescript.svg" width="64" height="64" alt="TypeScript" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">TypeScript</strong>
+    </td>
+    <td align="center" height="144" width="144">
+      <img src="javascript.svg" width="64" height="64" alt="JavaScript" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">JavaScript</strong>
+    </td>
+    <td align="center" height="144" width="144">
+      <img src="react.svg" width="64" height="64" alt="React" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">React</strong>
+    </td>
+    <td align="center" height="144" width="144">
+      <img src="nextjs.svg" width="64" height="64" alt="Next.js" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">Next.js</strong>
+    </td>
+    <td align="center" height="144" width="144">
+      <img src="redux.svg" width="64" height="64" alt="Redux" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">Redux</strong>
+    </td>
+  </tr>
+</table>
 
 **Backend & Infrastructure**
 
@@ -69,7 +98,7 @@ _I love the moment when a well-built backend quietly powers AI that actually wor
   </tr>
   <tr>
     <td align="center" height="144" width="144">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="64" height="64" alt="AWS" />
+      <img src="aws.svg" width="64" height="64" alt="AWS" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">AWS</strong>
     </td>
     <td align="center" height="144" width="144">
@@ -117,30 +146,3 @@ _I love the moment when a well-built backend quietly powers AI that actually wor
   <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge" height=25>
   <img src="https://img.shields.io/badge/Flower-37814A?style=for-the-badge" height=25>
 </p>
-
-**Frontend**
-
-<table>
-  <tr>
-    <td align="center" height="96" width="96">
-      <img src="typescript.svg" width="48" height="48" alt="TypeScript" />
-      <br /><sub>TypeScript</sub>
-    </td>
-    <td align="center" height="96" width="96">
-      <img src="javascript.svg" width="48" height="48" alt="JavaScript" />
-      <br /><sub>JavaScript</sub>
-    </td>
-    <td align="center" height="96" width="96">
-      <img src="react.svg" width="48" height="48" alt="React" />
-      <br /><sub>React</sub>
-    </td>
-    <td align="center" height="96" width="96">
-      <img src="nextjs.svg" width="48" height="48" alt="Next.js" />
-      <br /><sub>Next.js</sub>
-    </td>
-    <td align="center" height="96" width="96">
-      <img src="redux.svg" width="48" height="48" alt="Redux" />
-      <br /><sub>Redux</sub>
-    </td>
-  </tr>
-</table>
