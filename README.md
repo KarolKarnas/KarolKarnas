@@ -7,14 +7,14 @@ _From client requirements to production._
 **Backend systems · Modern interfaces · AI integrations**
 
 <div align="justify">
-<p>I work with clients to turn requirements into working software: React and Next.js interfaces, Python and Django backends, AI integrations, testing, and deployment. I bring a strong backend foundation and stay involved from the client conversation through implementation and release.</p>
+<p>I work with clients to turn requirements into working software: Python and Django backends, React and Next.js interfaces, AI integrations, testing, and deployment. I bring a strong backend foundation and stay involved from the client conversation through implementation and release.</p>
 
 <p><strong>Current professional projects:</strong></p>
 <ul>
-  <li><strong><a href="https://www.karnas.dev/professional-projects/dms-housing-authority">Housing Platform for HOME</a></strong> - Full-stack engineer at Kruko on a team building a housing operations platform for HOME in El Paso, Texas. My contribution spans resident portals, recertification workflows, Django APIs, caseworker tools, integrations, testing, and delivery. Document management (DMS) and AI-assisted processing are part of the wider platform · React · Next.js · Django · Celery · Azure</li>
+  <li><strong><a href="https://www.karnas.dev/professional-projects/dms-housing-authority">Housing Platform for HOME</a></strong> - Full-stack engineer at Kruko on a team building a housing operations platform for HOME in El Paso, Texas. My contribution spans Django APIs, integrations, recertification workflows, resident portals, caseworker tools, testing, and delivery. Document management (DMS) and AI-assisted processing are part of the wider platform · Django · Celery · React · Next.js · Azure</li>
   <li><strong><a href="https://databidmachine.com/">Data Bid Machine</a></strong> - Backend and AI integration work for a Google Ads platform: campaign reporting, budget monitoring, keyword analysis, and validated LLM recommendations for paid-search teams · Django · Celery · OpenAI · sentence-transformers · Pandas · AWS</li>
 </ul>
-<p>I connect interfaces to the data and business rules behind them, then verify the finished feature through tests and real user flows.</p>
+<p>I connect data and business rules to the interfaces people use, then verify the finished feature through tests and real user flows.</p>
 
 <p>I use coding assistants for implementation, exploration, and review. I define the scope, make the technical decisions, review changes, and verify behavior. Responsibility for the delivered software stays with me.</p>
 </div>
