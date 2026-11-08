@@ -1,6 +1,6 @@
 # 👋 Karol Karnas
 
-**`Full-stack Engineer`**
+**`Full-stack Engineer · Data Analysis · Agentic AI`**
 
 _From client requirements to production._
 
