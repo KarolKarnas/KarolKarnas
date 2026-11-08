@@ -36,33 +36,6 @@ _From client requirements to production._
 
 ## 🔧 Technologies & Tools
 
-**Frontend & Interfaces**
-
-<table>
-  <tr>
-    <td align="center" height="144" width="144">
-      <img src="typescript.svg" width="64" height="64" alt="TypeScript" />
-      <br /><strong style="display:inline-block; width:84px; text-align:center;">TypeScript</strong>
-    </td>
-    <td align="center" height="144" width="144">
-      <img src="javascript.svg" width="64" height="64" alt="JavaScript" />
-      <br /><strong style="display:inline-block; width:84px; text-align:center;">JavaScript</strong>
-    </td>
-    <td align="center" height="144" width="144">
-      <img src="react.svg" width="64" height="64" alt="React" />
-      <br /><strong style="display:inline-block; width:84px; text-align:center;">React</strong>
-    </td>
-    <td align="center" height="144" width="144">
-      <img src="nextjs.svg" width="64" height="64" alt="Next.js" />
-      <br /><strong style="display:inline-block; width:84px; text-align:center;">Next.js</strong>
-    </td>
-    <td align="center" height="144" width="144">
-      <img src="redux.svg" width="64" height="64" alt="Redux" />
-      <br /><strong style="display:inline-block; width:84px; text-align:center;">Redux</strong>
-    </td>
-  </tr>
-</table>
-
 **Backend & Infrastructure**
 
 <table>
@@ -124,6 +97,41 @@ _From client requirements to production._
     <td align="center" height="144" width="144">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="64" height="64" alt="Linux" />
       <br /><strong style="display:inline-block; width:84px; text-align:center;">Linux</strong>
+    </td>
+  </tr>
+</table>
+
+**Frontend & Interfaces**
+
+<table>
+  <tr>
+    <td align="center" height="144" width="144">
+      <img src="typescript.svg" width="64" height="64" alt="TypeScript" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">TypeScript</strong>
+    </td>
+    <td align="center" height="144" width="144">
+      <img src="javascript.svg" width="64" height="64" alt="JavaScript" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">JavaScript</strong>
+    </td>
+    <td align="center" height="144" width="144">
+      <img src="react.svg" width="64" height="64" alt="React" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">React</strong>
+    </td>
+    <td align="center" height="144" width="144">
+      <img src="nextjs.svg" width="64" height="64" alt="Next.js" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">Next.js</strong>
+    </td>
+    <td align="center" height="144" width="144">
+      <img src="redux.svg" width="64" height="64" alt="Redux" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">Redux</strong>
+    </td>
+    <td align="center" height="144" width="144">
+      <img src="sass.svg" width="64" height="64" alt="Sass" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">Sass</strong>
+    </td>
+    <td align="center" height="144" width="144">
+      <img src="tailwind.svg" width="64" height="64" alt="Tailwind" />
+      <br /><strong style="display:inline-block; width:84px; text-align:center;">Tailwind</strong>
     </td>
   </tr>
 </table>
